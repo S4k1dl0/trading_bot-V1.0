@@ -20,6 +20,7 @@ package.json
 
 # Script files
 fix_pandas_ta.py
+bot/strategy.py
 
 # IDE files
 .vscode/
