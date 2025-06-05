@@ -12,3 +12,38 @@ node_modules/
 dist/
 web-dashboard/node_modules/
 web-dashboard/dist/
+
+# Package files
+package-lock.json
+package.json
+
+# Script files
+fix_pandas_ta.py
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python coverage and testing
+.coverage
+htmlcov/
+.pytest_cache/
+coverage_html_report/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Build artifacts
+*.egg-info/
+build/
