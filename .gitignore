@@ -11,6 +11,7 @@ trading.db
 node_modules/
 dist/
 web-dashboard/node_modules/
+web-dashboard/.next/
 web-dashboard/dist/
 
 # Package files
