@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+trading.db
+*.sqlite3
+*.log
+.env
+node_modules/
+dist/
+web-dashboard/node_modules/
+web-dashboard/dist/

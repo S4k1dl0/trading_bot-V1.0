@@ -1,0 +1,9 @@
+ccxt
+pandas
+pandas_ta
+requests
+flask
+python-dotenv
+
+scikit-learn
+flask-cors
